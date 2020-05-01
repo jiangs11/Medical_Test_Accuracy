@@ -1,7 +1,7 @@
 # Programming Languages Semester Homework Problem
 
-This assignment is for Programming Languages Fall 2019 at Rowan University.
-#### written by [Dr. Nancy Tinkham](http://elvis.rowan.edu/~nlt/hw_pl_f19.html)
+This assignment is for Programming Languages - Fall 2019 at Rowan University.
+#### Written by [Dr. Nancy Tinkham](http://elvis.rowan.edu/~nlt/hw_pl_f19.html)
 
 ## General problem description
 
