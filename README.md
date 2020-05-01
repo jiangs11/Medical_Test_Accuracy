@@ -1,4 +1,4 @@
-# Prolog Semester Homework Problem
+# Programming Languages Semester Homework Problem
 
 This assignment is for Programming Languages Fall 2019 at Rowan University.
 #### written by [Dr. Nancy Tinkham](http://elvis.rowan.edu/~nlt/hw_pl_f19.html)
