@@ -6,6 +6,7 @@ This assignment is for Programming Languages - Fall 2019 at Rowan University.
 ## General problem description
 
 **You will write a program which compares the accuracy of two medical tests for diagnosing a particular disease.**
+Languages used for this assignment: Scheme, Ada, Prolog
 
 The input to your program will be a list of data about a collection of patients specifying:
 
